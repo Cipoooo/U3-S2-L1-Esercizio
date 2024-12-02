@@ -1,0 +1,12 @@
+body{
+  width: 100%;
+}
+hr{
+  border-color: white;
+}
+button:hover{
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 0 1em grey;
+}
+#card:hover{transform: scale(1.05);}
